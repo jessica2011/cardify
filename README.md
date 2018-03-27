@@ -96,7 +96,7 @@ img {
   text-align: center;
   font-size:1.5em;
   background-color: rgba(15, 15, 15, 0.6);
-  color: #fff;
+  color: white;
 }
  ```
 ## Presentación del plugin _CARDIFY_ versión 1.0.0:
